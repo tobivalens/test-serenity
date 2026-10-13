@@ -27,11 +27,11 @@ target
 caches
 daemon
 native
-wrapper
+
 jdks
 workers
 build
 
 # Se Ignora los archivos gradlew y gradlew.bat
-gradlew
+
 gradlew.bat
